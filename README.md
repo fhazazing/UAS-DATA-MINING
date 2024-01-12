@@ -4,6 +4,7 @@
 * Python3 (Programming Language)
 * Streamlit (Python-Framework)
 * Jupyter Notebook
+* VS Code
 ### For EDA
 * NumPy
 * Pandas
